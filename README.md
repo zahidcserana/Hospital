@@ -1,2 +1,2 @@
-# afc_hms
-AFC Hospital Management System
+# HMS
+Hospital Management System
